@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azdurablefunction", "azdurablefunction.csproj", "{5C878C04-6A16-4F42-9A97-210D82671493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C878C04-6A16-4F42-9A97-210D82671493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C878C04-6A16-4F42-9A97-210D82671493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C878C04-6A16-4F42-9A97-210D82671493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C878C04-6A16-4F42-9A97-210D82671493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3710BE-E66A-4E1D-9C7B-2C1C68FEFB43}
+	EndGlobalSection
+EndGlobal
